@@ -2,7 +2,7 @@
 % Please edit documentation in R/myCalc.R
 \name{my_calc}
 \alias{my_calc}
-\title{Title}
+\title{Test Package}
 \usage{
 my_calc(x, f)
 }
@@ -15,7 +15,7 @@ my_calc(x, f)
 Result of calculation
 }
 \description{
-Title
+Test Package
 }
 \examples{
 my_calc(1:10, mean)

@@ -1,4 +1,4 @@
-#' Title
+#' Test Package
 #'
 #' @param x A numeric vector for calculation
 #' @param f A function to be applied to x

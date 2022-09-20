@@ -1,11 +1,11 @@
 Package: mytestpackage
-Title: What the Package Does (One Line, Title Case)
+Title: Test Package
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    person("Bradford", "Johnson", , "bradfordljohnson@outlook.com", role = c("aut"),
+           comment = c(ORCID = "0000-0002-5460-9984"))
+Description: This package is one that I am using to learn more about the package creation process. I plan on developing actual packages once I get my functions I want to use tested and finalized.
+License: use_mit_license()
     license
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
