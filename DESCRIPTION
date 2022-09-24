@@ -2,11 +2,11 @@ Package: mytestpackage
 Title: Test Package
 Version: 0.0.0.9000
 Authors@R: 
-    person("Bradford", "Johnson", , "bradfordljohnson@outlook.com", role = c("aut"),
+    person("Bradford", "Johnson", , "bradfordljohnson@outlook.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-5460-9984"))
-Description: This package is one that I am using to learn more about the package creation process. I plan on developing actual packages once I get my functions I want to use tested and finalized.
-License: use_mit_license()
-    license
+Description: description
+License: 
+Imports: tidyverse, stats
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
